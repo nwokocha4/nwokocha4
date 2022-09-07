@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nwokocha4
-- 👀 I’m interested in ...app development
-- 🌱 I’m currently learning ...flutter and java
-- 💞️ I’m looking to collaborate on ...java
+- 👋 Hi, I’m Nwokocha Emeka
+- 👀 I’m interested in app development
+- 🌱 I’m currently learning software development
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...nwokochaemeka4@gmail.com
 
 <!---
