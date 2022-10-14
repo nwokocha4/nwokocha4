@@ -1,11 +1,14 @@
-- 👋 Hi, I’m Nwokocha Emeka
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...nwokochaemeka4@gmail.com
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nwokocha Emeka
+======================================================================================================================================
 
-<!---
-nwokocha4/nwokocha4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-save
+Web3 developer
+--------------
+
+I'm a full stake Web3 Developer, very familiar with languages like JavaScript, c and solidity.
+
+* 🌍  I'm based in Nigeria
+* 🖥️  See my portfolio at [My portfolio](http://Netilfy.com/we)
+* ✉️  You can contact me at [nwokochaemeka4@gmail.com](mailto:nwokochaemeka4@gmail.com)
+* 🚀  I'm currently working on [A Dapp](http://See.com)
+* 🧠  I'm learning React
+* 🤝  I'm open to collaborating on Web3 frontend and backend.
