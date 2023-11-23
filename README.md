@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stake Web3 developer
 --------------
 
-I'm a full stake Web3 Developer, very familiar with languages like JavaScript, c and solidity.
+I'm a full stack Web3 Developer, very familiar with languages like JavaScript, c and solidity.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My portfolio](http://Netilfy.com/we)
